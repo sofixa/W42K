@@ -1,0 +1,55 @@
+#nav {
+	font-family:Arial, Helvetica, sans-serif;
+	border-color: #808080;
+	border-radius: 5px;
+	border-style: groove;
+	height: 30px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 10px;
+	text-align: center;
+	width: 400px;
+	background:rgba(0, 0, 0, 0.4);
+}
+
+#button {
+	width: 200px;
+	height: 43px;
+	padding-top: 7px;
+	text-align: center;
+	color: #000;
+	background: #444;
+	background: -webkit-linear-gradient(#555, #2C2C2C);
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.5),
+	0 -1px 0 rgba(255, 255, 255, 0.4);
+	width:69%;
+}
+
+#button hover {
+	color: #222;
+	background: #555;
+	background: -webkit-linear-gradient(#777, #333);
+}
+
+#button active {
+	color: #000;
+	background: #444;
+	background: -webkit-linear-gradient(#555, #2C2C2C);
+	box-shadow: 1px 1px 10px black inset, 
+	0 1px 0 rgba( 255, 255, 255, 0.4);
+}
+
+#structure {
+    max-width:800px;
+    min-width:800px;
+    height:500px;
+    margin-left:100px;
+    margin-right:100px;
+    border-style:groove;
+    border-color:gray;
+    border-width:5px;
+    border-radius:15px;
+    position:relative;
+    background-image:url('images/destro10.jpg') ;
+}

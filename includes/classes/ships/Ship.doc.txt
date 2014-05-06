@@ -1,0 +1,1 @@
+This is the basic class for ships - creates a random name and sets the basic variables to be used by the subclasses

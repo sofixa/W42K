@@ -1,0 +1,1 @@
+Basic class that creates the game entry in the DB, and sets up the game field

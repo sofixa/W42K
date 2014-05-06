@@ -1,0 +1,83 @@
+#center {
+	border-left:2px groove white;
+	border-right:2px groove white;
+													 }
+													 #nav li {
+														 display:inline;
+																								 }
+																								 #nav a {
+																									 color:white;
+																									 text-decoration:none;
+																									 display:inline-block;
+																									 margin:0 20px;
+
+																																															 }
+																																															 body {
+																																																 background:black url('images/bg.jpg') bottom right no-repeat fixed;
+																																																										 }
+
+																																																										 #center {
+																																																											 position : relative;
+																																																																					 }
+
+																																																																					 #center ul {
+																																																																						 position: relative;
+																																																																						 margin: 0;
+																																																																						 padding:0;
+																																																																						 border-radius:5px;
+																																																																						 border-style:groove;
+																																																																						 border-color:gray;
+																																																																						 background-color: black;
+																																																																						 white-space:nowrap;
+																																																																																																												 }
+
+																																																																																																												 #center li {
+																																																																																																													 display: block;
+																																																																																																																							 }
+
+																																																																																																																							 .submenu {
+																																																																																																																								 bottom: 0;
+																																																																																																																								 display: inline-block;
+																																																																																																																								 left: 0;
+																																																																																																																								 padding-bottom: 40px;
+																																																																																																																								 position: absolute;
+																																																																																																																								 display: none;
+																																																																																																																																																						 }
+
+																																																																																																																																																						 #center .submenu:hover {
+																																																																																																																																																							 display: inline-block;
+																																																																																																																																																																	 }
+
+																																																																																																																																																																	 #center:hover .submenu {
+																																																																																																																																																																		 display: inline-block;
+																																																																																																																																																																												 }
+
+																																																																																																																																																																												 li:hover {
+																																																																																																																																																																													 background:#222;
+																																																																																																																																																																																							 }
+
+																																																																																																																																																																																							 #form {
+																																																																																																																																																																																								 border-radius:8px;
+																																																																																																																																																																																								 border-style:groove;
+																																																																																																																																																																																								 border-color:gray;
+																																																																																																																																																																																								 border-width:5px;
+																																																																																																																																																																																								 color: white;
+																																																																																																																																																																																								 position:absolute;
+																																																																																																																																																																																								 width: 300px;
+																																																																																																																																																																																								 left: 31%;
+																																																																																																																																																																																								 top: 25%;
+																																																																																																																																																																																								 padding-top:33px;
+																																																																																																																																																																																								 padding-bottom:33px;
+
+																																																																																																																																																																																																																																										 }
+
+																																																																																																																																																																																																																																										 p {
+																																																																																																																																																																																																																																											 width: 100%;
+																																																																																																																																																																																																																																											 margin-top:10px;
+																																																																																																																																																																																																																																											 margin-bottom:10px;
+																																																																																																																																																																																																																																																													 }
+
+																																																																																																																																																																																																																																																													 input {
+																																																																																																																																																																																																																																																														 border-radius:8px;
+																																																																																																																																																																																																																																																																								 }
+
